@@ -1,25 +1,104 @@
-<h1 align="center">Hi 👋, I'm Aditya Rai</h1>
-<h3 align="center">IIIT-Delhi CSE'27</h3>
+# Aditya Rai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=warhawkadi&label=Profile%20views&color=0e75b6&style=flat" alt="warhawkadi" /> </p>
+Computer Science undergraduate at IIIT Delhi (Class of 2027) with experience in backend engineering, AI systems, and data engineering. Interested in building scalable distributed systems, intelligent applications, and production-grade software.
 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-rai-885666167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-rai-885666167" height="30" width="40" /></a>
-<a href="https://instagram.com/the.adityarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.adityarai" height="30" width="40" /></a>
+- Software Engineering Intern — TBO.com (2026)
+- Software Development Engineer Intern — LogiCoy (2025)
+- Summer Intern — HCLTech (2025)
+
+---
+
+## Technical Interests
+
+- Backend Engineering
+- Distributed Systems
+- Data Engineering
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Cloud Infrastructure
+
+---
+
+## Technical Skills
+
+**Languages**
+
+Java • Python • C++ • JavaScript • SQL • HTML • CSS
+
+**Frameworks & Libraries**
+
+Spring Boot • React • AngularJS • PyTorch • TensorFlow • Scikit-learn • JUnit
+
+**Databases**
+
+PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Neo4j • DynamoDB
+
+**Cloud & Infrastructure**
+
+AWS (Glue, Athena, EC2, S3, Redshift) • Docker • Git • GitHub Actions • Linux • Nginx • Apache Kafka • RabbitMQ
+
+---
+
+## Selected Projects
+
+### Drishti
+Agentic AI loan underwriting platform built using FastAPI, Next.js, Claude, AWS, and LightGBM.
+
+- Voice-first loan application workflow
+- Credit policy engine
+- Fraud detection pipeline
+- Risk scoring
+- Audit logging
+
+Repository:
+https://github.com/WarHawkADI/drishti
+
+---
+
+### AI Generated Image Detection
+
+Deep learning and classical computer vision models for distinguishing AI-generated images from real images.
+
+Repository:
+https://github.com/WarHawkADI/AI-Generated-Image-Detection
+
+---
+
+## Achievements
+
+- First Runner-Up — VOYAGEHACK 3.0 (TBO.com)
+- Second Runner-Up — TenzorX 2026 National AI Hackathon (Poonawalla Fincorp)
+- Rank 1 — Goldman Sachs India Hackathon 2025 (Semi-finalist)
+- Amazon ML Summer School 2025
+- JEE Advanced AIR 6841
+- INMO and INAO Qualifier
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WarHawkADI&show_icons=true&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarHawkADI&layout=compact&hide_border=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WarHawkADI&hide_border=true"/>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/warhawkadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="warhawkadi" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warhawkadi&show_icons=true&locale=en&layout=compact" alt="warhawkadi" /></p>
+## Contact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warhawkadi&show_icons=true&locale=en" alt="warhawkadi" /></p>
+Email: aditya23047@iiitd.ac.in
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warhawkadi&" alt="warhawkadi" /></p>
+LinkedIn:
+https://linkedin.com/in/aditya-rai-885666167
+
+GitHub:
+https://github.com/WarHawkADI
