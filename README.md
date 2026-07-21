@@ -1,10 +1,19 @@
 <h2>Hey, I'm Aditya Rai</h2>
-<img align="right" src="YOUR_GIF_LINK_HERE" width="200">
 
-<p><em>Software Engineer & AI Systems Enthusiast &nbsp;|&nbsp; Computer Science Student at IIIT Delhi</em></p>
+<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-[![LinkedIn](https://img.shields.io/badge/-Aditya%20Rai-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-rai-885666167)
-[![GitHub Follow](https://img.shields.io/github/followers/WarHawkADI?label=follow&style=social)](https://github.com/WarHawkADI)
+<p>
+  <em>Software Engineer & AI Systems Enthusiast &nbsp;|&nbsp; Computer Science Undergraduate @ IIIT Delhi ('27')</em>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/aditya-rai-885666167">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya_Rai-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/WarHawkADI">
+    <img src="https://img.shields.io/github/followers/WarHawkADI?label=Follow&style=social"/>
+  </a>
+</p>
 
 ---
 
@@ -13,7 +22,8 @@
 ```typescript
 const aditya = {
 
-    education: "B.Tech Computer Science @ IIIT Delhi ('27)",
+    education:
+        "B.Tech Computer Science @ IIIT Delhi ('27')",
 
     building: [
         "Agentic AI applications",
@@ -38,23 +48,13 @@ const aditya = {
         "RabbitMQ"
     ],
 
-    ai_ml: [
+    ai: [
         "LLM Agents",
         "LangGraph",
         "PyTorch",
         "TensorFlow",
         "Scikit-learn",
         "LightGBM"
-    ],
-
-    cloud: [
-        "AWS Glue",
-        "Athena",
-        "Amazon S3",
-        "Redshift",
-        "EC2",
-        "Docker",
-        "GitHub Actions"
     ],
 
     databases: [
@@ -65,6 +65,17 @@ const aditya = {
         "Neo4j",
         "Elasticsearch",
         "DynamoDB"
+    ],
+
+    cloud: [
+        "AWS",
+        "Glue",
+        "Athena",
+        "EC2",
+        "S3",
+        "Redshift",
+        "Docker",
+        "GitHub Actions"
     ],
 
     experience: [
@@ -95,20 +106,28 @@ const aditya = {
     ],
 
     focus:
-        "Building scalable backend infrastructure and AI systems that solve real-world problems."
+        "Building scalable backend infrastructure and production-ready AI systems."
 
 }
 ```
 
 ---
 
-### GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WarHawkADI&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarHawkADI&layout=compact&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WarHawkADI&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarHawkADI&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WarHawkADI&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=WarHawkADI&theme=github-dark&hide_border=true"/>
 </p>
+
+---
+
+## Connect
+
+- **LinkedIn:** https://linkedin.com/in/aditya-rai-885666167
+- **GitHub:** https://github.com/WarHawkADI
+- **Email:** aditya23047@iiitd.ac.in
