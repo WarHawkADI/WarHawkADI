@@ -3,10 +3,13 @@
 <img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p>
-  <em>Software Engineer & AI Systems Enthusiast &nbsp;|&nbsp; Computer Science Undergraduate @ IIIT Delhi ('27')</em>
+  <em>Software Engineer &amp; AI Systems Enthusiast &nbsp;|&nbsp; Computer Science Undergraduate @ IIIT Delhi (CSE '27)</em>
 </p>
 
 <p>
+  <a href="https://warhawkadi.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-warhawkadi.github.io-1f6feb?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/aditya-rai-885666167">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya_Rai-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -21,16 +24,15 @@
 
 ```typescript
 const aditya = {
-
     education:
-        "B.Tech Computer Science @ IIIT Delhi ('27')",
-
+        "B.Tech Computer Science @ IIIT Delhi (CSE '27)",
+    portfolio:
+        "https://warhawkadi.github.io",
     building: [
         "Agentic AI applications",
         "Backend infrastructure",
         "Enterprise data platforms"
     ],
-
     languages: [
         "Java",
         "Python",
@@ -38,7 +40,6 @@ const aditya = {
         "JavaScript",
         "SQL"
     ],
-
     backend: [
         "Spring Boot",
         "FastAPI",
@@ -47,7 +48,6 @@ const aditya = {
         "Apache Kafka",
         "RabbitMQ"
     ],
-
     ai: [
         "LLM Agents",
         "LangGraph",
@@ -56,7 +56,6 @@ const aditya = {
         "Scikit-learn",
         "LightGBM"
     ],
-
     databases: [
         "PostgreSQL",
         "MySQL",
@@ -66,7 +65,6 @@ const aditya = {
         "Elasticsearch",
         "DynamoDB"
     ],
-
     cloud: [
         "AWS",
         "Glue",
@@ -77,26 +75,22 @@ const aditya = {
         "Docker",
         "GitHub Actions"
     ],
-
     experience: [
         "Software Engineering Intern @ TBO.com",
         "SDE Intern @ LogiCoy",
         "Summer Intern @ HCLTech"
     ],
-
     projects: [
         "Drishti — Agentic AI Loan Underwriting Platform",
         "Enterprise Data Graph & KPI Analytics",
         "AI Generated Image Detection"
     ],
-
     achievements: [
         "First Runner-Up — VOYAGEHACK 3.0",
         "Second Runner-Up — TenzorX 2026 National AI Hackathon",
         "Goldman Sachs India Hackathon 2025 Semi-finalist",
         "Amazon ML Summer School 2025"
     ],
-
     interests: [
         "Backend Engineering",
         "Distributed Systems",
@@ -104,10 +98,8 @@ const aditya = {
         "Data Engineering",
         "Open Source"
     ],
-
     focus:
         "Building scalable backend infrastructure and production-ready AI systems."
-
 }
 ```
 
@@ -128,6 +120,7 @@ const aditya = {
 
 ## Connect
 
+- **Portfolio:** https://warhawkadi.github.io
 - **LinkedIn:** https://linkedin.com/in/aditya-rai-885666167
 - **GitHub:** https://github.com/WarHawkADI
 - **Email:** aditya23047@iiitd.ac.in
